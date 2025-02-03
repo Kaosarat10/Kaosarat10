@@ -5,19 +5,19 @@ I’m a **Data Analyst** specializing in **Business Analysis**. I uncover trends
 
 ---
 
-# 🚀 Mission
+### 🚀 Mission
 
 My mission is to leverage data to **drive business impact**, uncover hidden insights, and **empower decision-makers** with clear, actionable information while telling the story behind the data.
 
 ---
 
-# 🔍 About Me
+### 🔍 About Me
 
 I believe data is more than just numbers—it’s a powerful **story** waiting to be told. With my expertise in **business analysis**, I help businesses and decision-makers translate raw data into **strategic insights** that drive positive change. I’m passionate about transforming complex data into clear narratives that **resonate with stakeholders** and support smarter decision-making.
 
 ---
 
-# 💡 What I Bring to the Table
+### 💡 What I Bring to the Table
 
 - **Storytelling with Data**: I have a strong ability to **tell data stories** that resonate with my audience, ensuring that the insights shared are **relevant and impactful** for decision-making.
 - **Audience-Centric Approach**: I know **what my audience cares about** and **what they need to know**, ensuring that data insights are tailored to their needs for informed decision-making.
@@ -26,7 +26,7 @@ I believe data is more than just numbers—it’s a powerful **story** waiting t
 
 ---
 
-# 🚀 Skills
+### 🚀 Skills
 
 ### **Technical Skills**  
 - **Business Analysis** – Uncovering trends and insights for decision-making  
