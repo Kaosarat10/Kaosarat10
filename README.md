@@ -1,4 +1,4 @@
-## Hi there, I'm Kaosarat! 👋  
+# Hi there, I'm Kaosarat! 👋  
 
 I’m a **Data Analyst** specializing in **Business Analysis**. I uncover trends that matter and turn data into **actionable insights** and **compelling stories** for better decision-making.  
 
@@ -6,7 +6,14 @@ I’m a **Data Analyst** specializing in **Business Analysis**. I uncover trends
 
 ---
 
-## 🚀 Skills  
+## 🔍 About Me  
+
+I believe data is more than just numbers—it’s a powerful **story** waiting to be told. With my expertise in **business analysis**, I help businesses and decision-makers translate raw data into **clear, strategic insights** that drive impact.  
+
+If you’re looking for a data analyst who **uncovers what truly matters** and presents insights in a way that **resonates**, let’s connect! 🚀  
+
+
+# 🚀 Skills  
 
 ### **Technical Skills**  
 - **Business Analysis** – Uncovering trends and insights for decision-making  
@@ -22,13 +29,7 @@ I’m a **Data Analyst** specializing in **Business Analysis**. I uncover trends
 
 ---
 
-## 🔍 About Me  
 
-I believe data is more than just numbers—it’s a powerful **story** waiting to be told. With my expertise in **business analysis**, I help businesses and decision-makers translate raw data into **clear, strategic insights** that drive impact.  
-
-If you’re looking for a data analyst who **uncovers what truly matters** and presents insights in a way that **resonates**, let’s connect! 🚀  
-
----
 
 
 <!--
