@@ -18,7 +18,7 @@ I believe data is more than just numbers—it’s a powerful **story** waiting t
 
 ## 💡 What I Bring to the Table
 
--**Storytelling with Data**: I have a strong ability to **tell data stories** that resonate with my audience, ensuring that the insights shared are **relevant and impactful** for decision-making.
+- **Storytelling with Data**: I have a strong ability to **tell data stories** that resonate with my audience, ensuring that the insights shared are **relevant and impactful** for decision-making.
 - **Audience-Centric Approach**: I know **what my audience cares about** and **what they need to know**, ensuring that data insights are tailored to their needs for informed decision-making.
 - **Presentation Skills**: With a knack for **presenting complex insights** in a clear and engaging way, I excel at communicating data effectively to diverse audiences.
 - A collaborative mindset with a focus on **problem-solving**, **strategic thinking**, and **teamwork**.
