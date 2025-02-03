@@ -1,6 +1,7 @@
  Hi there, I'm Kaosarat! 👋  
 
 I’m a **Data Analyst** specializing in **Business Analysis**. I uncover trends that matter and turn data into **actionable insights** and **compelling stories** for better decision-making.
+
 📊 **I don’t just analyze data—I tell its story.**
 
 ---
