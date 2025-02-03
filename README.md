@@ -1,19 +1,34 @@
 # Hi there, I'm Kaosarat! 👋  
 
-I’m a **Data Analyst** specializing in **Business Analysis**. I uncover trends that matter and turn data into **actionable insights** and **compelling stories** for better decision-making.  
+## Kaosarat | Data Analyst | Business Analysis
 
-📊 **I don’t just analyze data—I tell its story.**  
+I’m a **Data Analyst** specializing in **Business Analysis**. I uncover trends that matter and turn data into **actionable insights** and **compelling stories** for better decision-making. 📊 **I don’t just analyze data—I tell its story.**
 
 ---
 
-## 🔍 About Me  
+## 🚀 Mission
 
-I believe data is more than just numbers—it’s a powerful **story** waiting to be told. With my expertise in **business analysis**, I help businesses and decision-makers translate raw data into **clear, strategic insights** that drive impact.  
+My mission is to leverage data to **drive business impact**, uncover hidden insights, and **empower decision-makers** with clear, actionable information while telling the story behind the data.
 
-If you’re looking for a data analyst who **uncovers what truly matters** and presents insights in a way that **resonates**, let’s connect! 🚀  
+---
 
+## 🔍 About Me
 
-# 🚀 Skills  
+I believe data is more than just numbers—it’s a powerful **story** waiting to be told. With my expertise in **business analysis**, I help businesses and decision-makers translate raw data into **strategic insights** that drive positive change. I’m passionate about transforming complex data into clear narratives that **resonate with stakeholders** and support smarter decision-making.
+
+---
+
+## 💡 What I Bring to the Table
+
+- A strong ability to **extract meaningful insights** from complex datasets and transform them into **actionable solutions**.
+- Experience in **data visualization**, creating intuitive and compelling dashboards with Power BI & Excel.
+- Expertise in **SQL & data extraction** to query large datasets and find key patterns.
+- Proficient in **data cleaning & transformation** to ensure accuracy and reliability.
+- A collaborative mindset with a focus on **problem-solving**, **strategic thinking**, and **teamwork**.
+
+---
+
+## 🚀 Skills
 
 ### **Technical Skills**  
 - **Business Analysis** – Uncovering trends and insights for decision-making  
@@ -28,6 +43,8 @@ If you’re looking for a data analyst who **uncovers what truly matters** and p
 - Problem-Solving & Critical Thinking  
 
 ---
+
+If you’re looking for a data analyst who **uncovers what truly matters** and presents insights in a way that **resonates**, let’s connect! 🚀
 
 
 
