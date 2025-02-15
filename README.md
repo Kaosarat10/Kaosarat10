@@ -27,7 +27,7 @@ I believe data is more than just numbers—it’s a powerful **story** waiting t
 
 ---
 
-## 📊 Data Analysis Projects  
+### 📊 Data Analysis Projects  
 
 ### 🔹 Electronic Sales Analysis (Excel Project)  
 This report presents an analysis of retail sales performance for a leading electronics and accessories retailer. It explores sales trends, revenue distribution, and key business insights using Excel for data cleaning, analysis, and visualization.  
