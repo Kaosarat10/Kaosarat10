@@ -27,6 +27,19 @@ I believe data is more than just numbers—it’s a powerful **story** waiting t
 
 ---
 
+# 📊 Data Analysis Projects  
+
+## 🔹 Electronic Sales Analysis (Excel Project)  
+This report presents an analysis of retail sales performance for a leading electronics and accessories retailer. It explores sales trends, revenue distribution, and key business insights using Excel for data cleaning, analysis, and visualization.  
+
+🔗 [View Project](https://github.com/Kaosarat10/Electronic-Company-Retail-Sales-Analysis)  
+
+## 🔹 Telecom Churn Analysis (Power BI Project)  
+This project analyzes customer churn and retention trends within a telecom company. It provides insights into customer behavior, key churn factors, and actionable recommendations using Power BI for interactive dashboards.  
+
+🔗 [View Project](https://github.com/Kaosarat10/telecom-churn-analysis)  
+
+
 ### 🚀 Skills
 
 ### **Technical Skills**  
