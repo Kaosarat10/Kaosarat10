@@ -37,6 +37,10 @@ This report presents an analysis of retail sales performance for a leading elect
 This project analyzes customer churn and retention trends within a telecom company. It provides insights into customer behavior, key churn factors, and actionable recommendations using Power BI for interactive dashboards.  
 🔗 [View Project](https://github.com/Kaosarat10/telecom-churn-analysis)  
 
+### 🔹Cookie Sales & Financial Performance Analysis (Excel Project)
+This repository contains a detailed sales and financial performance analysis of cookie sales from 2022 to 2023. The goal is to uncover sales trends, profitability insights, and best-performing products to help optimize resource allocation.
+🔗 [View Project](🔗 [View Project](https://github.com/Kaosarat10/telecom-churn-analysis)
+
 
 ### 🚀 Skills
 
