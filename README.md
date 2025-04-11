@@ -34,7 +34,9 @@ I work to ensure the data and insights I provide are clear and directly support 
 
 ### 📊 Data Analytics Projects  
 
-### 🔹 Electronic Sales Analysis (Excel Project) 
+### 🔹 Unicorn-Companies-Analysis (Excel Project) 
+This project analyzes billion-dollar unicorn companies using Microsoft Excel. It explores key trends such as investment patterns, industry dominance, geographical distribution, and return on investment. The analysis includes data cleaning, modeling, visualization, and insights generation.
+🔗 [View Project](https://github.com/Kaosarat10/Unicorn-Companies-Analysis)
 
 ### 🔹 Electronic Sales Analysis (Excel Project)  
 This report presents an analysis of retail sales performance for a leading electronics and accessories retailer. It explores sales trends, revenue distribution, and key business insights using Excel for data cleaning, analysis, and visualization.  
