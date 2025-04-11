@@ -1,33 +1,36 @@
- Hi there, I'm Kaosarat! 👋  
+# Hi there, I'm Kaosarat! 👋  
 
-I’m a **Data Analyst** specializing in **Business Analysis**. I uncover trends that matter and turn data into **actionable insights** and **compelling stories** for better decision-making.
+I’m a **Business Analyst** with a strong background in **Data Analysis**. I specialize in translating business needs into clear data-driven solutions and **actionable insights** that **drive strategic decisions**.
 
-📊 **I don’t just analyze data—I tell its story.**
+📊 **I don't just analyze data—I bridge business goals with data solutions**.
 
 ---
 
 ### 🚀 Mission
 
-My mission is to leverage data to **drive business impact**, uncover hidden insights, and **empower decision-makers** with clear, actionable information while telling the story behind the data.
+My mission is to leverage **data analysis and business acumen** to **deliver strategic insights**, solve complex business problems, and **empower decision-makers** to act with confidence. I transform data into **clear, actionable business solutions** that support smarter, more effective decisions.
 
 ---
 
 ### 🔍 About Me
 
-I believe data is more than just numbers—it’s a powerful **story** waiting to be told. With my expertise in **business analysis**, I help businesses and decision-makers translate raw data into **strategic insights** that drive positive change. I’m passionate about transforming complex data into clear narratives that **resonate with stakeholders** and support smarter decision-making.
+I believe data is more than just numbers—it's a vital tool for **driving business success**. With my expertise in **business analysis**, I focus on understanding **business objectives** and using data to inform strategic decisions. My approach is to turn complex data into **clear insights** that **align with business goals** and help companies achieve positive outcomes.
 
 ---
 
 ### 💡 What I Bring to the Table
 
-- **Storytelling with Data**: I have a strong ability to **tell data stories** that resonate with my audience, ensuring that the insights shared are **relevant and impactful** for decision-making.
-- **Audience-Centric Approach**: I know **what my audience cares about** and **what they need to know**, ensuring that data insights are tailored to their needs for informed decision-making.
-- **Presentation Skills**: With a knack for **presenting complex insights** in a clear and engaging way, I excel at communicating data effectively to diverse audiences.
-- A collaborative mindset with a focus on **problem-solving**, **strategic thinking**, and **teamwork**.
+- **Strategic Storytelling**: I turn raw data into **strategic stories** that directly relate to business goals, making sure insights are relevant, impactful, and **actionable** for decision-makers.  
+- **Business-Focused Problem Solving**: I approach data analysis with a business perspective, focusing on how insights can drive **process improvement**, solve business problems, and support **growth**.  
+- **Stakeholder Communication**: I excel at **presenting data** and insights in a way that is **accessible** and **engaging**, ensuring all stakeholders understand how findings influence business decisions.  
+- A **collaborative mindset** with a focus on working closely with stakeholders to **define needs**, **clarify requirements**, and ensure successful project delivery.
 
 ---
 
+
 ### 📊 Data Analytics Projects  
+
+### 🔹 Electronic Sales Analysis (Excel Project) 
 
 ### 🔹 Electronic Sales Analysis (Excel Project)  
 This report presents an analysis of retail sales performance for a leading electronics and accessories retailer. It explores sales trends, revenue distribution, and key business insights using Excel for data cleaning, analysis, and visualization.  
