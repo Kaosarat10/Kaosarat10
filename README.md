@@ -14,7 +14,14 @@ My mission is to leverage **data analysis and business acumen** to **deliver str
 
 ### 🔍 About Me
 
- I believe business analysis is key to making good decisions. By understanding the business needs and combining them with data, I help businesses make sense of their information and use it to improve their strategies. As a business analyst, I gather requirements, define project scopes, and provide data-driven solutions that help businesses grow and improve. I work to ensure the data and insights I provide are clear and directly support decision-making.
+I believe **business analysis** is key to making good decisions.  
+By understanding the business needs and combining them with data,  
+I help businesses make sense of their information and use it to improve their strategies.  
+
+As a Business Analyst, I gather requirements, define project scopes,  
+and provide **data-driven solutions** that help businesses grow and improve.  
+I work to ensure the data and insights I provide are clear and directly support decision-making.
+
 ---
 
 ### 💡 What I Bring to the Table
