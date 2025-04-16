@@ -30,6 +30,27 @@ I work to ensure the data and insights I provide are clear and directly support 
 - A **collaborative mindset** with a focus on working closely with stakeholders to **define needs**, **clarify requirements**, and ensure successful project delivery.
 
 ---
+### 🚀 Skills
+
+### **Technical Skills**  
+- **Business Analysis** – Uncovering trends and insights for decision-making  
+- **Data Visualization** – Creating compelling dashboards with Power BI & Excel  
+- **SQL & Data Extraction** – Querying databases to identify key patterns  
+- **Data Cleaning & Transformation** – Ensuring accurate and reliable datasets  
+
+### **Soft Skills**  
+- Diligence & Attention to Detail  
+- Leadership & Strategic Thinking  
+- Teamwork & Collaboration  
+- Problem-Solving & Critical Thinking  
+
+### 📊 Business Analytics Projects
+
+### 🔹 E-COMMERCE-Profitability-Gap-Analysis
+This project focuses on identifying and addressing the stagnant profit margins in an e-commerce business, despite an increase in both sales revenue and quantity sold. The analysis covers data from 2019 to 2024 and highlights patterns and key factors affecting profitability.
+
+🔗 [View Project](https://github.com/Kaosarat10/E-COMMERCE-Profitability-Gap-Analysis)
+
 
 
 ### 📊 Data Analytics Projects  
@@ -53,19 +74,6 @@ This project analyzes customer churn and retention trends within a telecom compa
 🔗 [View Project](https://github.com/Kaosarat10/telecom-churn-analysis)  
 
 
-### 🚀 Skills
-
-### **Technical Skills**  
-- **Business Analysis** – Uncovering trends and insights for decision-making  
-- **Data Visualization** – Creating compelling dashboards with Power BI & Excel  
-- **SQL & Data Extraction** – Querying databases to identify key patterns  
-- **Data Cleaning & Transformation** – Ensuring accurate and reliable datasets  
-
-### **Soft Skills**  
-- Diligence & Attention to Detail  
-- Leadership & Strategic Thinking  
-- Teamwork & Collaboration  
-- Problem-Solving & Critical Thinking  
 
 ---
 
