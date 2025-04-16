@@ -1,6 +1,7 @@
 # Hi there, I'm Kaosarat! 👋  
 
-I’m a **Business Analyst** with a strong background in **Data Analysis**. I specialize in translating business needs into clear data-driven solutions and **actionable insights** that **drive strategic decisions**.
+I’m a **Business Analyst** with a strong background in **Data Analysis**. I help businesses understand their challenges and turn them into clear, practical solutions that support better decisions and real results.
+
 
 📊 **I don't just analyze data—I bridge business goals with data solutions**.
 
