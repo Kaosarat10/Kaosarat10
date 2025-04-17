@@ -52,6 +52,11 @@ This project focuses on identifying and addressing the stagnant profit margins i
 
 🔗 [View Project](https://github.com/Kaosarat10/E-COMMERCE-Profitability-Gap-Analysis)
 
+### 🔹 Root Cause Analysis on High Employee Turnover Using the 5 Why Technique
+This project focuses on identifying the root causes of high employee turnover using the 5 Whys analysis technique.
+
+🔗 [View Project](https://github.com/Kaosarat10/Employee-turnover-Analysis-Root-cause-identification)
+
 
 
 ### 📊 Data Analytics Projects  
