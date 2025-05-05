@@ -47,6 +47,11 @@ I work to ensure the data and insights I provide are clear and directly support 
 
 ### 📊 Business Analytics Projects
 
+### 🔹 Strategic Pricing Analysis in the Boston Real Estate Market
+This business analysis case study investigates pricing dynamics within the Boston housing market using statistical methods and data modeling in Microsoft Excel. The objective was to uncover key drivers of housing prices, detect pricing inefficiencies, and provide actionable recommendations to real estate stakeholders—buyers, sellers, agents, and developers.
+
+🔗 [View Project](https://github.com/Kaosarat10/Business-Case-Analysis-of-Property-Pricing-Patterns-in-Boston)
+
 ### 🔹 E-COMMERCE-Profitability-Gap-Analysis
 This project focuses on identifying and addressing the stagnant profit margins in an e-commerce business, despite an increase in both sales revenue and quantity sold. The analysis covers data from 2019 to 2024 and highlights patterns and key factors affecting profitability.
 
