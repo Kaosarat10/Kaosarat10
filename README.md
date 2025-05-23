@@ -45,7 +45,7 @@ I work to ensure the data and insights I provide are clear and directly support 
 - Teamwork & Collaboration  
 - Problem-Solving & Critical Thinking  
 
-### 📊 Business Analytics Projects
+## 📊 Business Analytics Projects
 
 ### 🔹 ShopWorld Inventory System Automation
 This Case study: The ShopWorld Inventory System Automation project aims to replace the manual inventory process with an automated system to reduce stockouts and overstock issues. This will improve stock accuracy, boost sales, and enhance customer satisfaction by ensuring products are available when needed.
