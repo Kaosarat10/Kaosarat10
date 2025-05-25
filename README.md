@@ -55,12 +55,19 @@ I start by fully understanding your business goals and challenges. Then, I break
 
 ✓ Project Lifecycle Support
 
-### **Technical Skills**  
-- **Business Analysis** – Uncovering trends and insights for decision-making
-- **Data Analysis** - Analyse data, Uncover insight and storytelling with data
-- **Data Visualization** – Creating compelling dashboards with Power BI & Excel  
-- **SQL & Data Extraction** – Querying databases to identify key patterns  
-- **Data Cleaning & Transformation** – Ensuring accurate and reliable datasets  
+### Business Analysis – 
+
+- Skilled at requirement gathering, stakeholder analysis, process mapping, gap analysis, workflow documentation, and aligning business needs with practical solutions.
+
+- Data Analysis – Able to analyze data, uncover insights, identify trends, and tell meaningful stories with data to support better decision-making.
+
+- Data Visualization – Proficient in creating clear, impactful dashboards and reports using Power BI and Excel to communicate insights effectively.
+
+- SQL & Data Extraction – Experienced in writing SQL queries to extract and analyze data from databases, identify patterns, and support business insights.
+
+- Data Cleaning & Transformation – Strong in preparing clean, accurate, and well-structured datasets for analysis, using tools like Excel and Power Query.
+
+
 
 ### **Soft Skills**  
 - Diligence & Attention to Detail  
