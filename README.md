@@ -54,7 +54,8 @@ I start by fully understanding your business goals and challenges. Then, I break
 ✓ Project Lifecycle Support
 
 ### **Technical Skills**  
-- **Business Analysis** – Uncovering trends and insights for decision-making  
+- **Business Analysis** – Uncovering trends and insights for decision-making
+- **Data Analysis** - Analyse data, Uncover insight and storytelling with data
 - **Data Visualization** – Creating compelling dashboards with Power BI & Excel  
 - **SQL & Data Extraction** – Querying databases to identify key patterns  
 - **Data Cleaning & Transformation** – Ensuring accurate and reliable datasets  
@@ -63,7 +64,10 @@ I start by fully understanding your business goals and challenges. Then, I break
 - Diligence & Attention to Detail  
 - Leadership & Strategic Thinking  
 - Teamwork & Collaboration  
-- Problem-Solving & Critical Thinking  
+- Problem-Solving & Critical Thinking
+- Stakeholder Engagement
+- Adaptability
+  
 
 # 📊 Business Analytics Projects
 
