@@ -41,11 +41,11 @@ I start by fully understanding your business goals and challenges. Then, I break
 ---
 ###  Core Competencies
 
-✓ Business & Requirements Analysis
-✓ Power BI & Excel Dashboards
-✓ Workflow Documentation
-✓ Stakeholder Communication
-✓ Team Collaboration
+✓ Business & Requirements Analysis 
+✓ Power BI & Excel Dashboards 
+✓ Workflow Documentation 
+✓ Stakeholder Communication 
+✓ Team Collaboration 
 ✓ Project Lifecycle Support
 
 ### **Technical Skills**  
