@@ -86,7 +86,7 @@ This project focuses on identifying the root causes of high employee turnover us
 
 
 
-### 📊 Data Analytics Projects  
+#📊 Data Analytics Projects  
 
 ### 🔹 Unicorn-Companies-Analysis (Excel Project) 
 This project analyzes billion-dollar unicorn companies using Microsoft Excel. It explores key trends such as investment patterns, industry dominance, geographical distribution, and return on investment. The analysis includes data cleaning, modeling, visualization, and insights generation. 
