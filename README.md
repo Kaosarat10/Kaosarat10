@@ -26,15 +26,27 @@ I start by fully understanding your business goals and challenges. Then, I break
 
 ###  What I Bring to the Table
 
-- **Turn business goals into practical, step-by-step plans** 
-- ** Identify and close gaps in processes, communication, and execution**.
+- **Turn business goals into practical, step-by-step plans**
+
+- **Identify and close gaps in processes, communication, and execution**.
+  
 - **Help teams stay aligned, focused, and moving forward**
+  
 -  **Support full project delivery—from idea to launch**
-- **Stakeholder Communication**: I excel at **presenting data** and insights in a way that is **accessible** and **engaging**, ensuring all stakeholders understand how findings influence business decisions.  
+  
+- **Stakeholder Communication**: I excel at **presenting data** and insights in a way that is **accessible** and **engaging**, ensuring all stakeholders understand how findings influence business decisions.
+  
 - A **collaborative mindset** with a focus on working closely with stakeholders to **define needs**, **clarify requirements**, and ensure successful project delivery.
 
 ---
-### 🚀 Skills
+###  Core Competencies
+
+✓ Business & Requirements Analysis
+✓ Power BI & Excel Dashboards
+✓ Workflow Documentation
+✓ Stakeholder Communication
+✓ Team Collaboration
+✓ Project Lifecycle Support
 
 ### **Technical Skills**  
 - **Business Analysis** – Uncovering trends and insights for decision-making  
@@ -48,7 +60,7 @@ I start by fully understanding your business goals and challenges. Then, I break
 - Teamwork & Collaboration  
 - Problem-Solving & Critical Thinking  
 
-## 📊 Business Analytics Projects
+# 📊 Business Analytics Projects
 
 ### 🔹 ShopWorld Inventory System Automation
 This Case study: The ShopWorld Inventory System Automation project aims to replace the manual inventory process with an automated system to reduce stockouts and overstock issues. This will improve stock accuracy, boost sales, and enhance customer satisfaction by ensuring products are available when needed.
