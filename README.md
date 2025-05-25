@@ -55,9 +55,9 @@ I start by fully understanding your business goals and challenges. Then, I break
 
 ✓ Project Lifecycle Support
 
-### Business Analysis – 
+### Technical Skills 
 
-- Skilled at requirement gathering, stakeholder analysis, process mapping, gap analysis, workflow documentation, and aligning business needs with practical solutions.
+- Business Analysis – Skilled at requirement gathering, stakeholder analysis, process mapping, gap analysis, workflow documentation, and aligning business needs with practical solutions.
 
 - Data Analysis – Able to analyze data, uncover insights, identify trends, and tell meaningful stories with data to support better decision-making.
 
