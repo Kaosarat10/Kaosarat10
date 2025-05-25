@@ -43,6 +43,8 @@ I start by fully understanding your business goals and challenges. Then, I break
 
 ✓ Business & Requirements Analysis 
 
+✓ Process Mapping 
+
 ✓ Power BI & Excel Dashboards 
 
 ✓ Workflow Documentation 
