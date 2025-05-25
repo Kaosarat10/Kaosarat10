@@ -121,9 +121,7 @@ This project analyzes customer churn and retention trends within a telecom compa
 
 ---
 
-If you’re looking for a data analyst who **uncovers what truly matters** and presents insights in a way that **resonates**, let’s connect! 🚀
-
-
+If you're looking for someone who delivers clarity, structure, and measurable results, let's connect.
 
 
 <!--
