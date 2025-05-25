@@ -3,7 +3,7 @@
 I’m a Business Analyst who helps businesses get clear on their goals and align the right people, strategies, and processes to make those goals a reality. With a solid background in data analysis and business strategy, I turn complex problems into simple, actionable solutions.
 
 
- **I don't just analyze data—I bridge business goals with data solutions**.
+ **I bring clarity, structure, and strategy to every business challenge**.
 
 ---
 
