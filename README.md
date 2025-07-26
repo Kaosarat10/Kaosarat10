@@ -1,6 +1,10 @@
-# Hi there, I'm Kaosarat!
+# Hi there, 
 
-I’m a Business Analyst who helps businesses get clear on their goals and align the right people, strategies, and processes to make those goals a reality. With a solid background in data analysis and business strategy, I turn complex problems into simple, actionable solutions.
+I’m Kaosarat, a business analyst and strategy partner. I help businesses move from confusion to clarity: whether it’s launching something new, fixing inefficiencies, or building better systems that actually work.
+
+Many businesses don’t fail because the idea is bad. They struggle because the structure is missing.
+That’s where I come in.
+I help businesses get clear on their goals and align the right people, strategies, and processes to make those goals a reality. With a solid background in data analysis and business strategy, I turn complex problems into simple, actionable solutions.
 
 
  **I bring clarity, structure, and strategy to every business challenge**.
