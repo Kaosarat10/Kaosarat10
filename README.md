@@ -1,6 +1,6 @@
-## Hi there, 
+# Hi there, I’m Kaosarat
 
-I’m Kaosarat, a business analyst and strategy partner. I help businesses move from confusion to clarity: whether it’s launching something new, fixing inefficiencies, or building better systems that actually work.
+I'm a business analyst and strategy partner. I help businesses move from confusion to clarity: whether it’s launching something new, fixing inefficiencies, or building better systems that actually work.
 
 Many businesses don’t fail because the idea is bad. They struggle because the structure is missing.
 That’s where I come in.
